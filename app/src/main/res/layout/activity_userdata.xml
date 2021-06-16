@@ -41,7 +41,7 @@
                 android:layout_height="wrap_content"
                 android:textSize="15dp"
                 android:textStyle="bold"
-                android:textColor="#348Aff"
+                android:textColor="#ff0000"
                 android:text="Name :"
                 android:layout_marginRight="20dp"></TextView>
             <TextView
@@ -68,7 +68,7 @@
                 android:textSize="15dp"
                 android:textStyle="bold"
 
-                android:textColor="#348Aff"                android:text="Mobile Number :"
+                android:textColor="#ff0000"                android:text="Mobile Number :"
                 android:layout_marginRight="20dp"></TextView>
             <TextView
                 android:id="@+id/userphonenumber"
@@ -93,7 +93,7 @@
                 android:textSize="15dp"
                 android:textStyle="bold"
                 android:text="Email Id :"
-                android:textColor="#348Aff"
+                android:textColor="#ff0000"
                 android:layout_marginRight="20dp"></TextView>
             <TextView
                 android:id="@+id/email"
@@ -116,7 +116,7 @@
                 android:layout_height="wrap_content"
                 android:textSize="15dp"
                 android:textStyle="bold"
-                android:textColor="#348Aff"
+                android:textColor="#ff0000"
                 android:text="Account No :"
                 android:layout_marginRight="20dp"></TextView>
             <TextView
@@ -140,7 +140,7 @@
                 android:layout_height="wrap_content"
                 android:textSize="15dp"
                 android:textStyle="bold"
-                android:textColor="#348Aff"
+                android:textColor="#ff0000"
                 android:text="IFSC Code :"
                 android:layout_marginRight="20dp"></TextView>
             <TextView
@@ -165,7 +165,7 @@
                 android:layout_height="wrap_content"
                 android:textSize="15dp"
                 android:textStyle="bold"
-                android:textColor="#348Aff"
+                android:textColor="#ff0000"
                 android:text="Current balance :"
                 android:layout_marginRight="20dp"></TextView>
 
